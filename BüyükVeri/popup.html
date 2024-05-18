@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Duygu Analizi</title>
+  <script src="popup.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 20px;
+    }
+
+    #scrapeButton {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+    }
+
+    #scrapeButton:hover {
+      background-color: #45a049;
+    }
+
+    #response {
+      font-size: 14px;
+      margin-top: 20px;
+    }
+
+    .comment {
+      margin-bottom: 10px;
+    }
+
+    .positive {
+      color: green;
+    }
+
+    .negative {
+      color: red;
+    }
+
+    .neutral {
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <button id="scrapeButton">Duygu Analizi Yap</button>
+  <div id="response"></div>
+</body>
+</html>

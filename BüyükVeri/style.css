@@ -1,0 +1,14 @@
+/* Pozitif duygu durumu */
+.positive {
+    color: green;
+}
+
+/* Negatif duygu durumu */
+.negative {
+    color: red;
+}
+
+/* Nötr duygu durumu */
+.neutral {
+    color: gray;
+}

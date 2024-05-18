@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "URL Scraper",
+  "version": "1.0",
+  "description": "Extracts current tab's URL and sends it to Python.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
