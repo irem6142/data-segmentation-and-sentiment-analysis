@@ -1,32 +1,31 @@
 # Web Scraping
 
-Web scraping, bir web sitesinden otomatik olarak veri toplama sürecidir. Bu işlem, belirli bilgileri çekmek ve analiz etmek için yazılım veya botlar kullanılarak gerçekleştirilir. Web scraping, çeşitli alanlarda kullanılabilir, örneğin:
+Web scraping is the process of automatically collecting data from a website. This process is carried out using software or bots to extract and analyze specific information. Web scraping can be applied in various fields, for example:
 
-1-Veri Toplama ve Analiz: Fiyat karşılaştırma siteleri, e-ticaret platformlarından ürün bilgilerini çekerek kullanıcılar için karşılaştırmalar yapar.
+1. **Data Collection and Analysis:** Price comparison websites gather product information from e-commerce platforms to provide comparisons for users.
 
-2-Pazar Araştırması: Şirketler, rakiplerinin web sitelerinden ürün, fiyat ve diğer pazarlama stratejileri hakkında bilgi toplar.
+2. **Market Research:** Companies collect information about products, prices, and other marketing strategies from competitors' websites.
 
-3-Akademik Araştırma: Araştırmacılar, büyük veri kümelerini toplamak için web scraping kullanır.
+3. **Academic Research:** Researchers use web scraping to collect large datasets for their studies.
 
-4-Haber Toplama: Haber sitelerinden otomatik olarak makaleler ve haberler toplanarak bir araya getirilebilir.
+4. **News Aggregation:** Articles and news from various news websites can be automatically gathered and compiled.
 
-Web scraping, genellikle birkaç temel adımdan oluşur:
+Web scraping typically involves several basic steps:
 
-1-Web Sitesine Bağlanma: Hedef web sitesine HTTP isteği gönderilir.
+1. **Connecting to the Website:** An HTTP request is sent to the target website.
 
-2-HTML Kodunu Çekme: Web sayfasının HTML içeriği alınır.
+2. **Retrieving HTML Code:** The HTML content of the webpage is fetched.
 
-3-HTML'yi İşleme: HTML kodu ayrıştırılır ve hedeflenen veri elemanları seçilir (örneğin, belirli etiketler veya sınıflar).
+3. **Processing HTML:** The HTML code is parsed, and the target data elements are selected (e.g., specific tags or classes).
 
-4-Veriyi Çıkarma: Ayrıştırılan veriler çekilir ve yapılandırılır (örneğin, bir veri tabanına veya CSV dosyasına kaydedilir).
+4. **Extracting Data:** The parsed data is extracted and structured (e.g., saved into a database or CSV file).
 
-Web scraping için yaygın olarak kullanılan bazı araçlar ve kütüphaneler şunlardır:
+Some commonly used tools and libraries for web scraping include:
 
-1-BeautifulSoup: Python için popüler bir HTML ve XML ayrıştırma kütüphanesi.
+1. **BeautifulSoup:** A popular HTML and XML parsing library for Python.
 
-2-Scrapy: Python tabanlı güçlü bir web scraping framework'ü.
+2. **Scrapy:** A powerful web scraping framework based on Python.
 
-3-Selenium: Web tarayıcılarını otomatikleştirmek için kullanılan bir araç, dinamik içerikleri işlemek için idealdir.
+3. **Selenium:** A tool used to automate web browsers, ideal for handling dynamic content.
 
-4-Puppeteer: Node.js için bir kütüphane, Google Chrome'u kontrol ederek tarayıcı otomasyonu sağlar.
-
+4. **Puppeteer:** A Node.js library that provides browser automation by controlling Google Chrome.
