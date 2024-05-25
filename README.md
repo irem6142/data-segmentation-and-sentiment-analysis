@@ -29,3 +29,5 @@ Some commonly used tools and libraries for web scraping include:
 3. **Selenium:** A tool used to automate web browsers, ideal for handling dynamic content.
 
 4. **Puppeteer:** A Node.js library that provides browser automation by controlling Google Chrome.
+
+![WhatsApp Görsel 2024-05-26 saat 00 08 27_ac29ceac](https://github.com/irem6142/data-segmentation-and-sentiment-analysis/assets/92339133/d9810a72-6350-464f-afc9-38cbbce26d43)
