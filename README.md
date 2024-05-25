@@ -29,6 +29,6 @@ Selenium: A tool used to automate web browsers, ideal for handling dynamic conte
 
 Puppeteer: A Node.js library that provides browser automation by controlling Google Chrome.
 
-WhatsApp Görsel 2024-05-26 saat 00 08 41_9bf2334d
+![WhatsApp Görsel 2024-05-26 saat 00 08 29_78d7db1f](https://github.com/ENESAKICI/data-segmentation-and-sentiment-analysis/assets/170357289/52b35483-5266-4af8-847f-89e097d0ddf0)
 
-WhatsApp Görsel 2024-05-26 saat 00 08 27_ac29ceac
+![WhatsApp Görsel 2024-05-26 saat 00 08 41_6825f381](https://github.com/ENESAKICI/data-segmentation-and-sentiment-analysis/assets/170357289/e9e353e6-566a-493e-a7fe-791175f2ca46)
