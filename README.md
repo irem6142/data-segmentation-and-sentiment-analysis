@@ -1,4 +1,4 @@
-#Web Scraping
+# Web Scraping
 Web scraping is the process of automatically collecting data from a website. This process is carried out using software or bots to extract and analyze specific information. Web scraping can be applied in various fields, for example:
 
 Data Collection and Analysis: Price comparison websites gather product information from e-commerce platforms to provide comparisons for users.
